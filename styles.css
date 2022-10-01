@@ -485,10 +485,6 @@ footer {
     font-size: 36px;
   }
 
-  .nav-link {
-    font-size: 24px;
-  }
-
   /* hero */
   .hero-container {
     height: 350px;
@@ -505,6 +501,7 @@ footer {
   .hero-button {
     font-size: 20px;
   }
+
   /* about */
   .about-card {
     gap: 40px;
@@ -515,16 +512,15 @@ footer {
   }
 
   .about-content > h3 {
-    font-size: 28px;
+    font-size: 24px;
   }
 
   .about-content > p {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .tech-stack-section {
     align-self: flex-start;
-
     margin-top: 8px;
   }
 
@@ -545,11 +541,11 @@ footer {
 
   .project-card > h5,
   .project-card > p {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .project-card-links > a {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   /* contacts */
@@ -558,11 +554,11 @@ footer {
   }
 
   .contact-card > p {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .contact-links > a {
-    font-size: 20px;
+    font-size: 16px;
   }
   .footer-content,
   .footer-content > a {
